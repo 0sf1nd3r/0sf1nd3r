@@ -4,7 +4,7 @@
                       /_____|\__|__/\_____/\__|\_/\_____/|_____/
                       
                    [-]------------------------------------------[|]
-                              **/@Developer and Pentester** 
+                              /@Developer and Pentester
                                                  
 
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,py,ts,mysql,mongodb)](https://skillicons.dev)
