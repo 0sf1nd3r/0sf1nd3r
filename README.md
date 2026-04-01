@@ -8,7 +8,7 @@ __       _____                             __
                    /____/                    
 ---
 
-     [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,py,ts,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,py,ts,mysql,mongodb)](https://skillicons.dev)
 
 ---
 
