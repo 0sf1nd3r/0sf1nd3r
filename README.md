@@ -6,6 +6,15 @@
                    [-]------------------------------------------[|]
                               /@Developer and Pentester
                                                  
-# [=>] Skills
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,py,ts,mysql,mongodb)](https://skillicons.dev)
+
+
+                         _____  __ ___ ___  ____   ____   _____ 
+                        /  ___>|  |  //___\/  _/  /  _/  /  ___>
+                        |___  ||  _ < |   ||  |---|  |---|___  |
+                        <_____/|__|__\\___/\_____/\_____/<_____/
+                                        
+                   [-]------------------------------------------[|]
+
+\
+                       [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,react,py,ts,mysql,mongodb)](https://skillicons.dev)
 
